@@ -4,7 +4,7 @@
     <application
         android:label="Entry Form"
         android:name="${applicationName}"
-        android:icon="@drawable/online_registration">
+        android:icon="@drawable/techwens_logo">
         <activity
             android:name=".MainActivity"
             android:exported="true"
