@@ -42,6 +42,7 @@ dependencies:
   pdf_image_renderer: ^0.7.0 # For rendering images if needed
   path_provider: ^2.0.11
   syncfusion_flutter_xlsio: ^19.4.0+38
+  country_picker: ^2.0.26
 
 
 dev_dependencies:

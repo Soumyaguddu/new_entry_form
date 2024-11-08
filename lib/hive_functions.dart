@@ -24,14 +24,11 @@ class HiveFunctions {
         "key": key,
         "companyName": value["companyName"],
         "contactPersonName": value['contactPersonName'],
-        "stallNumber": value['stallNumber'],
         "phoneNumber": value['phoneNumber'],
         "emailAddress": value['emailAddress'],
-        "companyAddress": value['companyAddress'],
-        "topicInterested": value['topicInterested'],
-        "meetingSchedule": value['meetingSchedule'],
-        "meetingLocation": value['meetingLocation'],
-        "probability": value['probability'],
+        "countryName": value['countryName'],
+        "detailsReq": value['detailsReq'],
+        "selectedSolution": value['selectedSolution'],
       };
     }).toList();
 
